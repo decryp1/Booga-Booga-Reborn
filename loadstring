@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/decryp1/Booga-Booga-Reborn/refs/heads/main/code'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/decryp1/Booga-Booga-Reborn/refs/heads/main/code"))()
